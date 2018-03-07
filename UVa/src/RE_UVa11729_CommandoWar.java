@@ -41,9 +41,6 @@ public class RE_UVa11729_CommandoWar {
 				j++;
 
 
-
-
-
 			}
 
 
