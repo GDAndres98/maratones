@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
-public class UVa11534_SayGoodbyetoTicTacToe {
+public class xUVa11534_SayGoodbyetoTicTacToe {
 	public static void main(String[] args) throws Exception {
 		BufferedReader kb = new BufferedReader(new InputStreamReader(System.in));
 		PrintWriter out = new PrintWriter(System.out);
