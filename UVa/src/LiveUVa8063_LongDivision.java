@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.StringTokenizer;
 
-public class UVa8063_LongDivision {
+public class LiveUVa8063_LongDivision {
 	private static void solve(StringBuilder sb, int n, String d) {
 		StringBuilder process = new StringBuilder(""), result = new StringBuilder(""), line = new StringBuilder("");
 		int cont, act, space = 2, res = 0;
